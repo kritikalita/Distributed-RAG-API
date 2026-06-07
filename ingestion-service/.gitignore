@@ -32,3 +32,22 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Build
+target/
+
+# Logs
+*.log
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Env
+.env
